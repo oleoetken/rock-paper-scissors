@@ -6,3 +6,8 @@ function will generate a random result out of 1, 2 and 3
 IF the result equals 1 then return rock
 ELSE IF result equals 2 then return paper 
 ELSE return scissor
+
+
+create new function getHumanChoice
+user will input rock, paper or scissor
+return that user input
