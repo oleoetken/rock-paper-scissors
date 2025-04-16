@@ -1,0 +1,8 @@
+Rock Paper Scissors
+
+create variables for rock, paper and scissor
+create function getComputerChoice
+function will generate a random result out of 1, 2 and 3
+IF the result equals 1 then return rock
+ELSE IF result equals 2 then return paper 
+ELSE return scissor
