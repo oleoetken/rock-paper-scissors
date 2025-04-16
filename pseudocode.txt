@@ -26,3 +26,20 @@ ELSE IF humanChoice equals rock and computerChoice equals paper
 computer wins, increase scores
 
 continue this with all logics 
+
+
+Create function playGame 
+It includes the playRound function and move score variables to the function
+create for loop to play 5 games
+in for loop set the const humanSelection and computerSelection to the get methods
+console.log after each iteration to show round and score after each round
+
+create if statement to get the winner
+IF humanScore bigger than computerScore 
+console.log show winner and score of you and computer
+ELSE IF humanScore smaller than computerScore
+console.log show that you lost and show scores of you and computer
+ELSE 
+console.log show that the game is a tie and show both scores
+
+Finally start with playGame() to start the game
