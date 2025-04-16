@@ -11,3 +11,18 @@ ELSE return scissor
 create new function getHumanChoice
 user will input rock, paper or scissor
 return that user input
+
+create variables humanScore and computerScore and set to 0
+
+Now create function to play the game
+create function playRound
+Define parameters for playRound
+The parameters will have getHumanChoice and getComputerChoice result stored
+
+Then create code needed for game
+IF humanChoice equals rock and computerChoice equals rock
+Its a draw, don´t increase scores
+ELSE IF humanChoice equals rock and computerChoice equals paper
+computer wins, increase scores
+
+continue this with all logics 
